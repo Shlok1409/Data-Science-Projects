@@ -1,6 +1,6 @@
 # Realtime Twitter Sentiment Analysis - NLP
 
-**Complete Video Tutorial:** https://youtu.be/26ZSHmUoBeM
+Analyze twitter sentiments using Natural Language Processing (NLP)
 
 **Twitter Developer Account:** https://developer.twitter.com/en/portal/dashboard
 
