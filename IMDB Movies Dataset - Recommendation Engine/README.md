@@ -1,6 +1,6 @@
 # Movie Recommendation Engine
 
-**Complete Video Tutorial:** https://youtu.be/Dw9_BQ60ERU
+Recommends movie based on Content filtering
 
 # Dataset Information
 
